@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Nov 20 10:49:05 2020
+# Process ID: 11012
+# Current directory: D:/CPE223_2/BGame/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6552 D:\CPE223_2\BGame\project_1\project_1.xpr
+# Log file: D:/CPE223_2/BGame/project_1/vivado.log
+# Journal file: D:/CPE223_2/BGame/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/CPE223_2/BGame/project_1/project_1.xpr
+update_compile_order -fileset sources_1
